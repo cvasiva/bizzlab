@@ -9,7 +9,7 @@ import {
   StyleSheet,
   Image,
   TouchableOpacity,
-  Dimensions,
+  Dimensions, 
   Animated,
   ScrollView,
   ActivityIndicator,
